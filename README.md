@@ -1,2 +1,0 @@
-# onClickSvgPathAnimation
-Created with CodeSandbox
